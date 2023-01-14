@@ -1,0 +1,5 @@
+F:\Моя учеба\ДЗ C#\Practik 3\obj\Debug\net6.0\Practik 3.csproj.AssemblyReference.cache
+F:\Моя учеба\ДЗ C#\Practik 3\obj\Debug\net6.0\Practik 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моя учеба\ДЗ C#\Practik 3\obj\Debug\net6.0\Practik 3.AssemblyInfoInputs.cache
+F:\Моя учеба\ДЗ C#\Practik 3\obj\Debug\net6.0\Practik 3.AssemblyInfo.cs
+F:\Моя учеба\ДЗ C#\Practik 3\obj\Debug\net6.0\Practik 3.csproj.CoreCompileInputs.cache
