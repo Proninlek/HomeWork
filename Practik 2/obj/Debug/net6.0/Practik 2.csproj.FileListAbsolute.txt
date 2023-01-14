@@ -1,0 +1,15 @@
+F:\Моя учеба\ДЗ C#\Practik 2\bin\Debug\net6.0\Practik 2.exe
+F:\Моя учеба\ДЗ C#\Practik 2\bin\Debug\net6.0\Practik 2.deps.json
+F:\Моя учеба\ДЗ C#\Practik 2\bin\Debug\net6.0\Practik 2.runtimeconfig.json
+F:\Моя учеба\ДЗ C#\Practik 2\bin\Debug\net6.0\Practik 2.dll
+F:\Моя учеба\ДЗ C#\Practik 2\bin\Debug\net6.0\Practik 2.pdb
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.csproj.AssemblyReference.cache
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.AssemblyInfoInputs.cache
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.AssemblyInfo.cs
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.csproj.CoreCompileInputs.cache
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.dll
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\refint\Practik 2.dll
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.pdb
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\Practik 2.genruntimeconfig.cache
+F:\Моя учеба\ДЗ C#\Practik 2\obj\Debug\net6.0\ref\Practik 2.dll
