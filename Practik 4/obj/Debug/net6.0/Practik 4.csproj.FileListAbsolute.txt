@@ -1,0 +1,15 @@
+F:\Моя учеба\ДЗ C#\Practik 4\bin\Debug\net6.0\Practik 4.exe
+F:\Моя учеба\ДЗ C#\Practik 4\bin\Debug\net6.0\Practik 4.deps.json
+F:\Моя учеба\ДЗ C#\Practik 4\bin\Debug\net6.0\Practik 4.runtimeconfig.json
+F:\Моя учеба\ДЗ C#\Practik 4\bin\Debug\net6.0\Practik 4.dll
+F:\Моя учеба\ДЗ C#\Practik 4\bin\Debug\net6.0\Practik 4.pdb
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.csproj.AssemblyReference.cache
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.AssemblyInfoInputs.cache
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.AssemblyInfo.cs
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.csproj.CoreCompileInputs.cache
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.dll
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\refint\Practik 4.dll
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.pdb
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\Practik 4.genruntimeconfig.cache
+F:\Моя учеба\ДЗ C#\Practik 4\obj\Debug\net6.0\ref\Practik 4.dll
