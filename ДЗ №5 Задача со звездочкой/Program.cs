@@ -13,32 +13,32 @@ int[] GetArray(int size, int minValue, int maxValue)
     return massiv;
 }
 
-int[] ArrayOfNumbers(int [] massiv2) 
+int[] ArrayOfNumbers(int [] massiv) 
 {
     int temp;
-    for (int i = 0; i < massiv2.Length - 1; i++)
+    for (int i = 0; i < massiv.Length - 1; i++)
     {
-        for (int j = i + 1; j < massiv2.Length; j++)
+        for (int j = i + 1; j < massiv.Length; j++)
         {
-            if (massiv2[i] < massiv2[j])
+            if (massiv[i] < massiv[j])
             {
-                temp = massiv2[i];
-                massiv2[i] = massiv2[j];
-                massiv2[j] = temp;
+                temp = massiv[i];
+                massiv[i] = massiv[j];
+                massiv[j] = temp;
             }
         }
     }
-    return massiv2;
+    return massiv;
 }
 
 Console.Clear();
 int[] ourArray = GetArray(4, -999, 999);
 Console.WriteLine(String.Join(", ", ourArray));
 
-ArrayOfNumbers (massiv2);
+ArrayOfNumbers(massiv);
 Console.WriteLine("После сортировки:");
-for (int i = 0; i < mas.Length; i++)
+for (int i = 0; i < massiv.Length; i++)
     {
-        Console.WriteLine(mas[i]);
+        Console.WriteLine(massiv[i]);
     }
 Console.ReadLine();
