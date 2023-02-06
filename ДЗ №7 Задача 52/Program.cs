@@ -14,7 +14,9 @@ int[,] GetArray(int m, int n, int minValue, int maxValue)
         for (int j = 0; j < n; j++)
         {
             result[i, j] = new Random().Next(minValue, maxValue+1);
+            Console.Write (result[i, j] + " ");
         }
+        Console.WriteLine();
     }
     return result;
 }
@@ -28,7 +30,7 @@ void PrintArray(int[,] inArray)
         {
             avarage = (avarage + inArray[l, k]);
         }
-        avarage = avarage / inArray.GetLength(1);
+        avarage = avarage / inArray.GetLength(0);
         Console.Write(avarage + "; ");
     }
 }
