@@ -78,5 +78,6 @@ int[,] resultMatrix = new int[col,row2];
 PrintArray(array);
 Console.WriteLine();
 PrintArray(array2);
+MultiplyMatrix(array, array2, resultMatrix);
 Console.WriteLine($"Произведение первой и второй матриц:");
 PrintArray(resultMatrix);
